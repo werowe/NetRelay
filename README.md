@@ -1,6 +1,5 @@
 # NetRelay 
-
-(To do:  write overview of what Netrelay does.  Point user to Wiki.)
+Here is the User Manual https://github.com/werowe/NetRelay/blob/master/RelayControlWebApplicationUserManual.pdf .
 
 # NetRelay Installation Instructions
 
